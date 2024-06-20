@@ -4,7 +4,7 @@ sources:
     - name: fergus_jaffle_shop
       description: This is a replica of the Postgres database used by our app
       database: TIL_PORTFOLIO_PROJECTS
-      schema: fergus_jaffle_shop
+      schema: jaffle_shop
       tables:
           - name: customers
             description: One record per customer.
